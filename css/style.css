@@ -1,0 +1,59 @@
+
+header{
+		background: black;
+}
+.letras{
+	color: white;
+}
+ul{
+	list-style-type: none;
+	font-size: 11px;
+	font-family: Arial;
+	color: white;
+	margin: 1%;
+	padding: 5%;
+}
+.submenu{
+	background: #D3D3D3;
+}
+.fin{
+	background: #A0A0A0
+}
+.imgprincipal{
+	height: 200px;
+	width: 200px;
+	border: white solid 5px;
+}
+.letraazul{
+	font-size: 15px;
+	color: blue;
+	font-family: Arial;
+}
+h2{
+	font-family: Arial;
+}
+.episodes{
+	height: 100px;
+	width: 100px;
+	border: grey solid 1px;
+	padding: 5px;
+}
+.azul{
+	color: blue;
+	font-family: Arial;
+	font-size: 15px;
+}
+.abajo{
+	font-family: Arial;
+	color: white;
+	font-size: 12px;
+}
+
+#corporing{
+	font-family: Arial;
+	color: #707070;
+	font-size: 12px;
+}
+span{
+	color:#707070;
+}
